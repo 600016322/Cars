@@ -1,0 +1,161 @@
+<html>
+<title>Website Yannick Dirksen</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="#home" class="w3-bar-item w3-button"><b>YD</b> Car Favorites</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="#LuxuryCars" class="w3-bar-item w3-button">Luxury cars</a>
+      <a href="#SUV's" class="w3-bar-item w3-button">SUV's</a>
+      <a href="#HyperCars" class="w3-bar-item w3-button">Hyper cars</a>
+	    <a href="#ElectricCars" class="w3-bar-item w3-button">Electric cars</a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img src="Jono.jpg" alt="Jon Olsson" width="1500" height="1000">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    
+	
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:2000px">
+
+  <!-- Project Section -->
+  <div class="w3-container w3-padding-32" id="LuxuryCars">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Luxury Cars</h3>
+   <p>
+  <a href="https://www.google.com" style="text-decoration: none">More Luxury Cars? Click here!</a>
+</p>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Rolls Royce Dawn <br> $508.000 <br> 571 Pk</div>
+		<p><a href="https://www.rolls-roycemotorcars.com/en-GB/dawn.html"> <img src="Rolls.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+	<div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Mercedes-Maybach G650 <br> $1.000.000 <br> 630 Pk</div>
+       <p><a href="https://www.mercedes-benz.com/en/mercedes-benz/vehicles/passenger-cars/g-class/the-new-mercedes-maybach-g-650-landaulet/"><img src="mercedes.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Audi A8 <br> $111.270 <br> 450 pk</div>
+       <p><a href="https://www.audi.nl/nl/web/nl/modellen/a8/a8.html"><img src="A8.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+  </div>
+  <br> 
+  <div class="w3-container w3-padding-32" id="SUV's">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">SUV's</h3> 
+   
+    <p>
+  <a href="https://www.google.com" style="text-decoration: none">More SUV's? Click here!</a>
+</p>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Audi Q8 ABT <br> $145.950 <br> 286 pk</div>
+        <p><a href="https://www.abt-sportsline.com/audi-tuning/q8/#27961827!9EF9232"><img src="Q8.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+	<div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Lamborghini Urus <br> $278.844 <br> 650 Pk</div>
+        <p><a href="https://www.lamborghini.com/en-en/models/urus"><img src="Urus.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding"> Mercedes AMG glc 63 s<br> $175.869 <br> 640 pk</div>
+        <p><a href="https://www.mercedes-amg.com/en/vehicles/glc/suv.html"><img src="63s.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+    </div>
+  <br> 
+  <div class="w3-container w3-padding-32" id="HyperCars">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Hyper Cars</h3>
+     <a href="https://www.google.com" style="text-decoration: none">More Hyper Cars? Click here!</a>
+  
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Lamborghini Huracan Performante <br> $321.384 <br> 640 pk</div>
+        <p><a href="https://www.lamborghini.com/en-en/models/huracan/huracan-performante"><img src="Huracan.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+	<div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Bugatti la voiture noire <br> $19.000.000 <br> 1500 Pk</div>
+     <p><a href="https://www.bugatti.com/"><img src="Bugatti.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding"> Audi R8 V10 plus<br> $280.000 <br> 630 pk</div>
+        <p><a href="https://www.audi.nl/nl/web/nl/modellen/r8/r8-coupe-v10-performance-quattro.html"><img src="R8.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+    </div>
+  <br> 
+  <div class="w3-container w3-padding-32" id="ElectricCars">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Electric Cars</h3>
+    <a href="https://www.google.com" style="text-decoration: none">More Electric Cars? Click here!</a>
+  </div>
+
+  <div class="w3-row-padding">
+      
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Tesla Roadster <br> $215.000 <br> pk = NB</div>
+     <p><a href="https://www.tesla.com/nl_NL/roadster"><img src="Tesla.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+	<div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">Audi e-tron GT<br> $125.000 <br> 590 Pk</div>
+       <p><a href="https://www.audi.nl/nl/web/nl/modellen/e-tron/audi-e-tron-gt-concept.html"><img src="GT.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+    <div class="w3-third l3 m6 w3-margin-bottom">
+      <div class="w3-display-container">
+        <div class="w3-display-topleft w3-black w3-padding">BMW I8<br> $166.500 <br> 374 pk</div>
+       <p><a href="https://www.broekhuis.nl/bmw/i8/?utm_source=bing&utm_medium=cpc&utm_campaign=1.%20BMW%20-%20Model%20generiek&utm_term=BMW%20i8&utm_content=i8%20-%20Model%20Generiek"><img src="I8.jpg" style="width:100%"></a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+ 
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <p>Powered by <a href="http://www.informaticathomas.nl" title="Informatica TAK" target="_blank" class="w3-hover-text-Blue">Informatica TAK</a></p>
+</footer>
+
+</body>
+</html>
